@@ -401,6 +401,19 @@ Train set: Average loss: 0.0033, Accuracy: 42591/50000 (85.18%)
 
 Test set: Average loss: -7.7030, Accuracy: 8659/10000 (86.59%)
 
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Training%20adn%20test%20log%20-40epoch.png)
+
 - Training accuracy = 85.185
 
 - Test accuracy  = 86.59 
+
+# Wrongly detected  images
+
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Wrongly%20diagnosed%20images.png)
+
+#Gradcam some image of wrongly detected 
+
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Wrongly%20diagnosed%20images%202.png)
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Wrongly%20diagnosed%20images%203.png)
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Wrongly%20diagnosed%20images%204.png)
+![alt text](https://github.com/sumsumsp/EVA6_Assignment_8/blob/main/Wrongly%20diagnosed%20images%205.png)
